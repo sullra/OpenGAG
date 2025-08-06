@@ -1,2 +1,2 @@
 # OpenGAG
-Free and open source Grow a Garden stock notifier discord bot.
+Free and open source Grow a Garden stock notifier discord bot written in Python.
